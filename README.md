@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Favour Darasimi  
+# 👋 Hi there, I'm Darasimi  
 
 🚀 **Full-Stack Developer | Python & Django Backend | React Frontend | Engineering Student**
 
