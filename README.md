@@ -33,13 +33,9 @@ I'm a passionate full-stack developer who bridges clean backend logic with smoot
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=FavourDarasimi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Darasimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FavourDarasimi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FavourDarasimi&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FavourDarasimi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FavourDarasimi&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FavourDarasimi&layout=compact&theme=tokyonight)
 </div>
 
 ---
