@@ -32,11 +32,11 @@ I'm a passionate full-stack developer who bridges clean backend logic with smoot
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FavourDarasimi&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FavourDarasimi&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FavourDarasimi&layout=compact&theme=tokyonight)
-</div>
+
 
 ---
 
