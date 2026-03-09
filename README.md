@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Darasimi Olaniran
 
-### Full-Stack Developer | Building Scalable Web Solutions
+### Web Developer | Building Scalable Web Solutions
 
 > *"Code. Learn. Build. Repeat."*
 
-I'm a passionate full-stack developer who bridges clean backend logic with smooth, high-performance frontend experiences. With 2+ years of hands-on experience, I specialize in creating practical applications that solve real-world business problems.
+I'm a passionate Web developer who bridges clean backend logic with smooth, high-performance frontend experiences. With 3+ years of hands-on experience, I specialize in creating practical applications that solve real-world business problems.
 
 ---
 
@@ -42,7 +42,7 @@ I'm a passionate full-stack developer who bridges clean backend logic with smoot
 
 ## 💡 About Me
 
-🎓 Chemical Engineering student | 💼 Freelance Full Stack Developer (2+ years) | 🌍 Based in Nigeria  
+🎓 Chemical Engineering student | 💼 Freelance Web Developer (3+ years) | 🌍 Based in Nigeria  
 Currently building scalable REST APIs, mastering state management in React, and deploying fullstack apps on cloud platforms.
 
 📧 darasimi0603@gmail.com | 🌐 [codewithdara.vercel.app](https://codewithdara.vercel.app/)
