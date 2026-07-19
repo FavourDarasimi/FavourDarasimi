@@ -28,15 +28,6 @@ I'm a passionate Web developer who bridges clean backend logic with smooth, high
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FavourDarasimi&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FavourDarasimi&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FavourDarasimi&layout=compact&theme=tokyonight)
-
 
 ---
 
